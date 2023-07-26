@@ -18,8 +18,6 @@ Steps:
 
 #### 7. npm install @mui/material @emotion/react @emotion/styled (This is the package used by material ui for text field and button controls, there is no compulsion for using this, there are other options like antd, mantine ui, etc.)
 
-#### 8. npm install @mui/icons-material @mui/material @emotion/styled @emotion/react (This package is used for material ui icons)
-
 Extentions Used in vs code:
 
 #### 1. ES7+ React/Redux/React-Native snippets (This extension is used in vs code for using shortcuts like rfc. Which helps quickly initialize class)
