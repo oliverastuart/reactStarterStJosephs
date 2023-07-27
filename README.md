@@ -6,7 +6,7 @@ Steps:
 
 #### 1. Download Node.js from Nodejs.org and install it on your system ( go for default settings)
 
-#### 2. Go to cmd and type npm install –g create-react-app (This will globally install the script so that next time from anywhere if you use Npx create-react-app it will atomatically download the node modules and do the initial setup for you).
+#### 2. Go to cmd and type npm install -g create-react-app (This will globally install the script so that next time from anywhere if you use Npx create-react-app it will atomatically download the node modules and do the initial setup for you).
 
 #### 3. Npx create-react-app testing (here testing is the name of the project).
 
