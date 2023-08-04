@@ -7,7 +7,6 @@ import { useNavigate } from "react-router-dom";
 import { PATH_HOME } from "../../resources/constants/Url";
 export default function Login() {
   const navigate = useNavigate();
-
   const [password, setPassword] = useState("");
   const [email, setEmail] = useState("");
 
